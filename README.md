@@ -1,2 +1,2 @@
 # Registration form
- homework for internet web tech class
+ internet and web tech
